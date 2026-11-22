@@ -1,0 +1,3 @@
+*.exe
+threat-service
+coverage.out
